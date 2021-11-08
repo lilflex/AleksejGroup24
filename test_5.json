@@ -1,4 +1,7 @@
 {
 	"item_1":1,
-	"item_2":2
+	"item_2":2,
+	"course":"QA",
+	"name":"Aleksej",
+	"people":200
 }
