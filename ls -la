@@ -1,0 +1,75 @@
+[33mcommit cf99db1d38424930abbdf2e0f7bfc8a8bf92bb90[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e01824b 5cc26f4
+Author: lilflex <40639466+lilflex@users.noreply.github.com>
+Date:   Mon Nov 8 08:30:54 2021 +0200
+
+    Merge pull request #1 from lilflex/apple_pay
+    
+    add test_5.json
+
+[33mcommit 5cc26f4ca7bab18a6f1cff4056f017e55c3dde84[m[33m ([m[1;31morigin/apple_pay[m[33m, [m[1;32mapple_pay[m[33m)[m
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Mon Nov 8 08:20:10 2021 +0200
+
+    add test_5.json
+
+[33mcommit e01824bd79fdfa3cea30debe32810ffe9a40c620[m
+Merge: 7bdba93 9fe69ed
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Mon Nov 8 07:59:30 2021 +0200
+
+    resolve conflict
+
+[33mcommit 9fe69ed4e3e14d2c486d7f191e1c3104d4f4fdce[m
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Mon Nov 8 07:55:00 2021 +0200
+
+    Add info to test_7.json apple_pay
+
+[33mcommit 7bdba93348ecb95a84af8473538f98d1771b02d0[m
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Mon Nov 8 07:51:10 2021 +0200
+
+    Add info to test_7.json
+
+[33mcommit e3608f40c9fa69ad84f5fffc2941e2e07d06cfbd[m
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Mon Nov 8 07:32:00 2021 +0200
+
+    create test_6.json
+
+[33mcommit 5d66e20a065863ff593e969122b38faa1724c4c9[m
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Mon Nov 8 07:26:43 2021 +0200
+
+    delete 226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
+
+[33mcommit d778e9e110aad801f781e2af8b71100f7eb0e7d1[m
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Sun Nov 7 19:11:54 2021 +0200
+
+    modify test_5.json
+
+[33mcommit d2514e2354f2893c4a8c2675735dce372f5ca55e[m
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Sun Nov 7 19:04:59 2021 +0200
+
+    create test_5.json
+
+[33mcommit bc33ce49fa49aead76df9e787871a7205fb85534[m
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Sun Nov 7 14:13:04 2021 +0200
+
+    hw git bash.txt
+
+[33mcommit bb3e5ac4292ad3c26073761ab1a8b06957b9f986[m
+Author: Aleksej <kralinaleksej@gmail.com>
+Date:   Sun Nov 7 13:56:03 2021 +0200
+
+    cteate test_1.json
+
+[33mcommit 502738738189bfaa8962abf1be309371d178cd2d[m
+Author: lilflex <40639466+lilflex@users.noreply.github.com>
+Date:   Sun Nov 7 13:15:42 2021 +0200
+
+    Initial commit
